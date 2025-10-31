@@ -1,1 +1,1 @@
-# SaliX-Backend-1.-Hafta-Kulucka-Odevi
+# SaliX-Backend-1.-Hafta-Odevi
